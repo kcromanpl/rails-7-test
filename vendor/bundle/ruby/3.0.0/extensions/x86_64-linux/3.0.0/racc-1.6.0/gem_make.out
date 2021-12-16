@@ -1,0 +1,17 @@
+current directory: /home/luffyviruss/personal/rails_7_app/vendor/bundle/ruby/3.0.0/gems/racc-1.6.0/ext/racc/cparse
+/home/luffyviruss/.rvm/rubies/ruby-3.0.2/bin/ruby -I /home/luffyviruss/.rvm/rubies/ruby-3.0.2/lib/ruby/3.0.0 -r ./siteconf20211216-14802-4x4rdf.rb extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /home/luffyviruss/personal/rails_7_app/vendor/bundle/ruby/3.0.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\= clean
+
+current directory: /home/luffyviruss/personal/rails_7_app/vendor/bundle/ruby/3.0.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\=
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/luffyviruss/personal/rails_7_app/vendor/bundle/ruby/3.0.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\= install
+/usr/bin/install -m 0755 cparse.so ./.gem.20211216-14802-6me499/racc
